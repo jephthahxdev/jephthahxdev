@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm <Jephthah/>!
+# 👋 Hey there, I'm [Jephthah]!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%26+Web+Enthusiast;API+Architecture+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 - 🌱 Always exploring **new technologies and frameworks**
 - 👯 Looking to collaborate on **innovative web and mobile applications**
 - 💬 Ask me about **PHP, Laravel, Vue.js, React, Flutter, or anything tech!**
-- ⚡ Fun fact: **I debug with coffee and deploy with confidence**
+- ⚡ Fun fact: **I debug with lots of sucrose and deploy with confidence, my manager says I do have a risk appetite for projects**
 
 ---
 
@@ -131,7 +131,7 @@ Mobile Dev       ████████████████░░░░░
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jephthahxdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -184,5 +184,5 @@ Mobile Dev       ████████████████░░░░░
 ---
 
 <div align="center">
-  <i>⭐ From [yourusername](https://github.com/yourusername)</i>
+  <i>⭐ From [McTrevor01](https://github.com/jephthahxdev)</i>
 </div>
