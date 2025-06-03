@@ -76,15 +76,15 @@ Mobile Dev       ████████████████░░░░░
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jephthahxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jephthahxdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jephthahxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -108,8 +108,8 @@ Mobile Dev       ████████████████░░░░░
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/amazing-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/yourusername/awesome-project-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=amazing-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/jephthahxdev/amazing-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/jephthahxdev/awesome-project-2)
 
 </div>
 
@@ -140,9 +140,9 @@ Mobile Dev       ████████████████░░░░░
 
 <div align="center">
 
-### 📅 Current Streak: **X Days**
-### 🏆 Longest Streak: **X Days**
-### 💻 Total Contributions: **X,XXX**
+### 📅 Current Streak: **37 Days**
+### 🏆 Longest Streak: **88 Days**
+### 💻 Total Contributions: **2,497**
 
 </div>
 
@@ -184,5 +184,5 @@ Mobile Dev       ████████████████░░░░░
 ---
 
 <div align="center">
-  <i>⭐ From [McTrevor01](https://github.com/jephthahxdev)</i>
+  <i>⭐ From [Jephthah Idogbo](https://github.com/jephthahxdev)</i>
 </div>
