@@ -151,7 +151,7 @@ Mobile Dev       ████████████████░░░░░
 ## 🎵 Currently Vibing To
 
 <div align="start">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=McTrevor01&theme=dark" alt="Spotify Playing" />
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zyddeb5vrgh6qcbhyei5iy7b5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ---
