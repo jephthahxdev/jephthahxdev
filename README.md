@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=jephthahxdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jephthahxdev?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/jephthahxdev?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
