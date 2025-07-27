@@ -157,7 +157,7 @@ Mobile Dev       ████████████████░░░░░
 ## 💡 Random Dev Quote
 
 <div align="start">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="height: 40px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="height: 120px"/>
 </div>
 
 ---
