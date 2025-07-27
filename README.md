@@ -140,8 +140,8 @@ Mobile Dev       ████████████████░░░░░
 
 <div align="start">
 
-### 📅 Current Streak: **37 Days**
-### 🏆 Longest Streak: **88 Days**
+### 📅 Current Streak: **118 Days**
+### 🏆 Longest Streak: **208 Days**
 ### 💻 Total Contributions: **2,497**
 
 </div>
@@ -157,7 +157,7 @@ Mobile Dev       ████████████████░░░░░
 ## 💡 Random Dev Quote
 
 <div align="start">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="height: 40px"/>
 </div>
 
 ---
